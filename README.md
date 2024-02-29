@@ -1,2 +1,3 @@
 # DH1622-Human-Computer-Interaction
+This is an introductory course in human-computer interaction. This course started with a theory part that was later on implemented in a group project that is supposed to use the theory to create digital prototype that follows design theory. Our user group for this project was transporation services for people with disabilities. We created a prototype for a program that could be found in taxis for transportation services to provide a better experience for those people. The following link is the design in figma:
 https://www.figma.com/proto/OGkFNFkSrsSivnHy6clxr4/Rullstols-appen?node-id=5-14&starting-point-node-id=5%3A14&mode=design&t=ehdDqxbFwwx7tYdJ-1
